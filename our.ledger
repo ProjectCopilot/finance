@@ -1,5 +1,6 @@
 2016/07/01 Opening Balance
-    Assets:Savings                                          $0
+    Assets:Bank:Savings                                     $0
+    Assets:Bank:Checking                                    $0
     Income:Donations                                        $0
     Liabilities:Reimbursment:Ankit Ranjan
 
@@ -12,3 +13,7 @@
     Expenses:Services:Legal                             $30.00
     Liabilities:Reimbursement:Ankit Ranjan
     ; Reciept: e48487519764ac8e050518b74a654b77.pdf
+
+2016/07/28 Incorporation Loan
+    Assets:Bank:Checking                               $275.00
+    Liabilities:Reimbursement:Peeyush Ranjan
