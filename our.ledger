@@ -15,5 +15,9 @@
     ; Receipt: e48487519764ac8e050518b74a654b77.pdf
 
 2016/07/28 Incorporation Loan
-    Assets:Bank:Checking                               $275.00
+    Liabilities:Reimbursement:Ankit Ranjan             $275.00
     Liabilities:Reimbursement:Peeyush Ranjan
+
+2016/07/28 Apex
+    Expenses:Services:Hosting                            $9.00
+    Liabilities:Reimbursement:Ankit Ranjan
